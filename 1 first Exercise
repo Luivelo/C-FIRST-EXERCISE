@@ -1,0 +1,8 @@
+// PROGRAMA QUE ESCRIBE MI NOMBRE
+Console.WriteLine("Escribe tu nombre");
+String nombre = Console.ReadLine();
+Console.WriteLine("Hola," + nombre);
+// PROGRAMA QUE TOMA LA HORA
+Console.WriteLine("La hora es");
+Integer hora = Console.ReadLine();
+Console.WriteLine("La hora es," + hora);
